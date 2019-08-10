@@ -16,5 +16,6 @@
     <properties>
         <spring.version>4.0.2.RELEASE</spring.version>
     </properties>
+    <--this is the parent pom.xml add coment by 110383-->
 
 </project>
